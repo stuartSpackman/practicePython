@@ -5,8 +5,9 @@ print out an appropriate message to the user.
 
 Extras:
 
-    If the number is a multiple of 4, print out a different message.
-    Ask the user for two numbers:
+    1. If the number is a multiple of 4, print out a different message.
+    
+    2. Ask the user for two numbers:
     one number to check (call it num)
     and one number to divide by (check).
     If check divides evenly into num, tell that to the user.
